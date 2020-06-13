@@ -2,6 +2,22 @@ language: rust
 rust:
   - stable
   - beta
-  - nightly
+arch:
+  - amd64
+  - arm64
 cache: cargo
+before_script:
+  - rustup component add clippy
+  - rustup component add rustfmt
+script:
+  - cargo clippy
+  - cargo build
+  - cargo test
+  - cargo fmt -- --check
+notification:
+  on_success:
+    - change
+  on_failure:
+    - always
+
 
