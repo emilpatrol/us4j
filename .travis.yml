@@ -1,0 +1,30 @@
+language: rust
+rust:
+  - stable
+  - beta
+arch:
+  - amd64
+  - arm64
+cache: cargo
+before_script:
+  - rustup component add clippy
+  - rustup component add rustfmt
+script:
+  - cargo clippy
+  - cargo build
+  - cargo test
+  - cargo fmt -- --check
+notification:
+  on_success:
+    - change
+  on_failure:
+    - always
+deploy:
+  provider: pages
+  skip_cleanup: true
+  github_token: $GITHUB_TOKEN
+  keep_history: true
+  on:
+    branch: master
+
+
