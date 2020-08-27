@@ -1,0 +1,11 @@
+/home/travis/build/emilpatrol/us4j/target/debug/deps/proc_macro_error-df013f4938bd7723.rmeta: /home/travis/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro-error-1.0.2/src/lib.rs /home/travis/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro-error-1.0.2/src/dummy.rs /home/travis/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro-error-1.0.2/src/diagnostic.rs /home/travis/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro-error-1.0.2/src/macros.rs /home/travis/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro-error-1.0.2/src/imp/fallback.rs
+
+/home/travis/build/emilpatrol/us4j/target/debug/deps/libproc_macro_error-df013f4938bd7723.rlib: /home/travis/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro-error-1.0.2/src/lib.rs /home/travis/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro-error-1.0.2/src/dummy.rs /home/travis/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro-error-1.0.2/src/diagnostic.rs /home/travis/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro-error-1.0.2/src/macros.rs /home/travis/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro-error-1.0.2/src/imp/fallback.rs
+
+/home/travis/build/emilpatrol/us4j/target/debug/deps/proc_macro_error-df013f4938bd7723.d: /home/travis/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro-error-1.0.2/src/lib.rs /home/travis/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro-error-1.0.2/src/dummy.rs /home/travis/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro-error-1.0.2/src/diagnostic.rs /home/travis/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro-error-1.0.2/src/macros.rs /home/travis/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro-error-1.0.2/src/imp/fallback.rs
+
+/home/travis/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro-error-1.0.2/src/lib.rs:
+/home/travis/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro-error-1.0.2/src/dummy.rs:
+/home/travis/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro-error-1.0.2/src/diagnostic.rs:
+/home/travis/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro-error-1.0.2/src/macros.rs:
+/home/travis/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro-error-1.0.2/src/imp/fallback.rs:
