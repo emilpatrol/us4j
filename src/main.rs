@@ -1,3 +1,8 @@
+//use daemonize::Daemonize;
+mod config;
+mod session;
+
 fn main() {
-    println!("Hello, world!");
+    config::init_config();
+    //Daemonize::new().start().unwrap();
 }
